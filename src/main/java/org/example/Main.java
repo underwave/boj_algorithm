@@ -23,7 +23,7 @@ public class Main {
             N.add(br.readLine());
         }
 
-        for (int i = 0; i < m; i++) {
+q        for (int i = 0; i < m; i++) {
             String s= br.readLine();
             if((N.contains(s))){
                 M.add(s);
